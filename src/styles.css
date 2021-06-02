@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;500&display=swap");
+
+body {
+  background-color: #363b59;
+  color: white;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.btn-genre {
+  padding: 1.2rem;
+  margin: 0.5rem;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: #ed5e68;
+  color: white;
+  border: 0px;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+}
+
+.result-container {
+  max-width: 350px;
+  border: solid 3px #ed5e68;
+  margin: 1.7rem auto;
+  padding: 25px;
+  border-bottom-right-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-top-left-radius: 15px;
+  color: #ed5e68;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 300;
+  font-size: 25px;
+}
+
+.btn-container {
+}
+
+h1 {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 500;
+}
+
+h2 {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 500;
+}
+
+p {
+  margin: 0;
+}
+
+hr {
+  height: 1px;
+  border: none;
+  background-color: #ed5e68;
+}
